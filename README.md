@@ -9,6 +9,7 @@ An application made in VB that lets you paint pixels on a grid
  - Go to `RELEASE` and click on the latest version
  - Go to `EXE`
  - Download `PixelPainter.EXE` and open it normally
+ 
 ### or if you want the source code easily...
  - Go to `RELEASE` and click on the latest version
  - Go to `INSTALLER`
@@ -17,6 +18,7 @@ An application made in VB that lets you paint pixels on a grid
  
 ## Requirements for editing src
  - Visual Studio 2008 or higher
+ 
 ### Application type
  - vb.NET (Visual Basic)
  - Windows Forms Application

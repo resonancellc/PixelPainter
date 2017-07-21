@@ -1,6 +1,8 @@
 # PixelPainter
 An application made in VB that lets you paint pixels on a grid
 
+> **Note** This project is deprecated and will not be supported. 
+
 ## Requirements
  - Windows (7 or higher)
  - 2GB of RAM or more
